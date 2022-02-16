@@ -1,3 +1,3 @@
 ## Mi primer servidor en Heroku
 
-Despliega un servidor en Heroku. ¿Cuál? El que quieras.
+Despliega un servidor en Heroku para probar. ¿Cuál? El que quieras.
